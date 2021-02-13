@@ -5,7 +5,7 @@ This project is an online music player from "Bando de Seu Pereira", website: htt
 
 <img src="https://github.com/TauDuque/bando-player/blob/main/bando1.gif" /> <br>
 
-#### Check out the live demo: https://bando-player.herokuapp.com/
+#### Check out the live demo: https://bando-player.netlify.app/
 
 ## Tech Stack
 <ul>
